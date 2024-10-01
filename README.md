@@ -4,7 +4,7 @@ Hi!👋 My name is Gagan Dev P V
 Backend Developer
 -----------------
 
-Hey! I’m a backend developer. I make sure your favorite apps run smoothly and don’t crash when you need them most. If something breaks, I’m the one fixing it—usually while trying to remember how many cups of coffee I've had! I spend my days coding, debugging, and having long, meaningful conversations with databases. (They understand me… usually.)
+Hey! I’m a backend developer. I make sure your favorite apps run smoothly and don’t crash when you need them most. If something breaks, I’m the one fixing it—usually while trying to remember how many cups of coffee I've had!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [gagandevstm123@gmail.com](mailto:gagandevstm123@gmail.com)
