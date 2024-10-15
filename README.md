@@ -4,7 +4,7 @@ Hi!👋 My name is Gagan Dev P V
 Backend Developer
 -----------------
 
-Hey! I’m a backend developer. With a passion for coding, coffee, and learning new tech, and I'm currently diving into assembly language ....!
+Hey! I’m a backend developer. With a passion for coding, coffee, and learning new tech, and I'm currently learning assembly language ....!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [gagandevstm123@gmail.com](mailto:gagandevstm123@gmail.com)
